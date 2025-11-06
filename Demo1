@@ -1,1 +1,4 @@
-
+get an input of the final number
+take total number subtract by 165
+cal the month by dividing it by 100 then round it to the lower nearest number
+cal the day by dividing it by 100 then getting the remainder
